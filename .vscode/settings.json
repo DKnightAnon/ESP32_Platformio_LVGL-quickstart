@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "vars.h": "c",
+        "lv_example_msgbox_1.c": "cpp",
+        "lv_example_menu_1.c": "cpp"
+    }
+}
